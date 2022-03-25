@@ -1,0 +1,40 @@
+*------------------------------------------------------------*
+User:                u59396733
+Date:                March 25, 2022
+Time:                17:16:47
+*------------------------------------------------------------*
+* Training Output
+*------------------------------------------------------------*
+ 
+ 
+ 
+ 
+Variable Summary
+ 
+            Measurement    Frequency
+Role           Level         Count
+ 
+INPUT         NOMINAL          3
+REJECTED      NOMINAL          5
+
+
+*------------------------------------------------------------*
+* Score Output
+*------------------------------------------------------------*
+
+
+*------------------------------------------------------------*
+* Report Output
+*------------------------------------------------------------*
+ 
+ 
+ 
+ 
+Variable Importance
+ 
+                                                              Number of    Number of
+                                                              Splitting    Surrogate
+Variable Name                  Label                            Rules        Rules      Importance
+ 
+race_ethnicity                 race/ethnicity                     5            0          1.00000
+parental_level_of_education    parental level of education        2            0          0.53999
