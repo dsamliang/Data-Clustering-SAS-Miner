@@ -12,6 +12,6 @@
 7. Run the cluster node and view the results
 
 **Results:**
-![image](https://user-images.githubusercontent.com/98597962/160193883-502e5c58-603a-4e78-bd19-7769a2c6fd39.png)
+- ![image](https://user-images.githubusercontent.com/98597962/160193883-502e5c58-603a-4e78-bd19-7769a2c6fd39.png)
 
-![image](https://user-images.githubusercontent.com/98597962/160194015-257a9af6-b614-446d-acb5-9836fe4baa88.png)
+- ![image](https://user-images.githubusercontent.com/98597962/160194015-257a9af6-b614-446d-acb5-9836fe4baa88.png)
